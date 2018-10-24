@@ -1,0 +1,32 @@
+_repo: The-Emigrant_57986
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Graham, Stephen
+    birthdate: 1884
+    deathdate: 1975
+    gutenberg_agent_id: '4157'
+    url: http://www.gutenberg.org/2009/agents/4157
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Graham_%28author%29
+  translator:
+    agent_name: Margolies, Vera
+    gutenberg_agent_id: '49725'
+    url: http://www.gutenberg.org/2009/agents/49725
+creator:
+  author:
+    agent_name: Dostoieffskaya, Lyubov Fyodorovna
+    gutenberg_agent_id: '49724'
+    url: http://www.gutenberg.org/2009/agents/49724
+description: ''
+gutenberg_issued: '2018-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57986'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Emigrant
+url: http://www.gutenberg.org/ebooks/57986
