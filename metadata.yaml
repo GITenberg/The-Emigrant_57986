@@ -1,5 +1,5 @@
 _repo: The-Emigrant_57986
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Graham, Stephen
@@ -12,12 +12,17 @@ contributor:
     agent_name: Margolies, Vera
     gutenberg_agent_id: '49725'
     url: http://www.gutenberg.org/2009/agents/49725
+covers:
+- cover_type: archival
+  image_path: 57986-h/images/cover.jpg
 creator:
   author:
     agent_name: Dostoieffskaya, Lyubov Fyodorovna
     gutenberg_agent_id: '49724'
     url: http://www.gutenberg.org/2009/agents/49724
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57986#The-Emigrant
 gutenberg_issued: '2018-09-28'
 gutenberg_type: Text
 identifiers:
